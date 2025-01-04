@@ -25,6 +25,9 @@ W pliku `kodzik.py` musisz ustawić swoje dane logowania do TikTok (NA DOLE SKRY
 username = 'TIKTOK_USERNAME'
 password = 'TIKTOK_PASSWORD'
 ```
+
+## Krok 4: Uruchomienie skryptu
+1. **Uruchom.bat** – Uruchom plik na samym końcu po przejściu poprzednich kroków.
 ---
 
 ## Licencja
