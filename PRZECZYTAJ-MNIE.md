@@ -17,8 +17,8 @@ Pobierz lub sklonuj folder zawierający skrypt `kodzik.py`, plik `.bat` oraz ten
 -MUSZĄ BYĆ ONE WSZYSTKIE W JEDNYM FOLDERZE!!!
 
 ### Krok 2: Instalacja wymaganych bibliotek
-Użyj poniższego pliku `.bat` do automatycznego zainstalowania wymaganych bibliotek oraz uruchomienia skryptu:
-1. Kliknij dwukrotnie na `install_and_run.bat`.
+Użyj poniższego pliku `instalator.bat` do automatycznego zainstalowania wymaganych bibliotek oraz uruchomienia skryptu:
+1. Kliknij dwukrotnie na `instalator.bat`.
 2. Plik ten zainstaluje niezbędne biblioteki oraz uruchomi skrypt.
 
 ### Krok 3: Ustawienie danych logowania
