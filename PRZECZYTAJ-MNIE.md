@@ -13,7 +13,8 @@ Ten skrypt automatycznie loguje się na TikTok, przegląda posty na określonym 
 
 ### Krok 1: Pobierz pliki
 Pobierz lub sklonuj folder zawierający skrypt `kodzik.py`, plik `.bat` oraz ten plik README.
-MUSZĄ BYĆ ONE WSZYSTKIE W JEDNYM FOLDERZE!!!
+
+-MUSZĄ BYĆ ONE WSZYSTKIE W JEDNYM FOLDERZE!!!
 
 ### Krok 2: Instalacja wymaganych bibliotek
 Użyj poniższego pliku `.bat` do automatycznego zainstalowania wymaganych bibliotek oraz uruchomienia skryptu:
