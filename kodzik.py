@@ -51,8 +51,8 @@ def sprawdz_nowe_posty(driver, url_profilu, komentarz):
         polub_i_skomentuj(driver, video_url, komentarz)
 
 def main():
-    username = 'TIKTOK_USERNAME'
-    password = 'TIKTOK_PASSWORD'
+    username = 'TIKTOK_USERNAME'    #tutaj wpisz nazwe użytkownika
+    password = 'TIKTOK_PASSWORD'    #tutaj wpisz hasło
     url_profilu = 'https://www.tiktok.com/@NAZWA_PROFILU'
     komentarz = 'Super filmik!'
 
