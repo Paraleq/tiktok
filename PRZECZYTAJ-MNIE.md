@@ -20,7 +20,7 @@ Użyj poniższego pliku `.bat` do automatycznego zainstalowania wymaganych bibli
 2. Plik ten zainstaluje niezbędne biblioteki oraz uruchomi skrypt.
 
 ### Krok 3: Ustawienie danych logowania
-W pliku `kodzik.py` musisz ustawić swoje dane logowania do TikTok:
+W pliku `kodzik.py` musisz ustawić swoje dane logowania do TikTok (NA DOLE SKRYTPU):
 ```python
 username = 'TIKTOK_USERNAME'
 password = 'TIKTOK_PASSWORD'
