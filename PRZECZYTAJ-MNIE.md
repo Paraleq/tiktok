@@ -1,4 +1,4 @@
-# TikTok Auto Liker & Commenter
+# TikTok Auto Komentarz
 
 ## Opis
 Ten skrypt automatycznie loguje się na TikTok, przegląda posty na określonym profilu, polubia je oraz dodaje komentarz do nowych filmów. Skrypt jest napisany w Pythonie i używa narzędzia Selenium do automatyzacji przeglądarki.
