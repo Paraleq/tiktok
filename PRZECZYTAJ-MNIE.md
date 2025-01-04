@@ -24,7 +24,7 @@ W pliku `kodzik.py` musisz ustawić swoje dane logowania do TikTok (NA DOLE SKRY
 ```python
 username = 'TIKTOK_USERNAME'
 password = 'TIKTOK_PASSWORD'
-
+```
 ---
 
 ## Licencja
